@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Sean.  My friends call me Aun.
 
 <!--
 **aunfl0w/aunfl0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
